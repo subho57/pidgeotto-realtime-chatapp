@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url("img/bg.jpg");
+  background: url("../img/bg.jpg");
   background-position: 0%;
   padding: 0 10px;
 }

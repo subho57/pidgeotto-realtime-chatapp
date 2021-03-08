@@ -6,7 +6,6 @@
 
   <!-- Basic -->
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="description" content="Pidgeotto - Realtime Chat App">
   <meta name="keywords" content="Pidgeotto - Realtime Chat App">
   <title>Pidgeotto - Realtime Chat App</title>
@@ -16,7 +15,7 @@
   <meta name="theme-color" content="#3CBCFF"/>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
 
   <!-- Favicons -->

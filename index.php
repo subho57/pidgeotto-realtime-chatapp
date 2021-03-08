@@ -52,7 +52,7 @@ if (isset($_SESSION['unique_id'])) {
   <script>
     // load service worker
     "serviceWorker" in navigator && window.addEventListener("load", () => {
-      navigator.serviceWorker.register("service-worker.js").then(e => console.log("Success: ", e.scope)).catch(e => console.log("Failure: ", e))
+      navigator.serviceWorker.register("serviceworker.js").then(e => console.log("Success: ", e.scope)).catch(e => console.log("Failure: ", e))
     });
   </script>
 

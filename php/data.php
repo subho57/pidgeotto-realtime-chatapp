@@ -15,7 +15,7 @@ while ($row = mysqli_fetch_assoc($query)) {
     ($row['status'] == "Offline now") ? $offline = "offline" : $offline = "";
     ($outgoing_id == $row['unique_id']) ? $hid_me = "hide" : $hid_me = "";
 
-    $output .= '<a href="bot.php?user_id=' . $row['unique_id'] . '">
+    $output .= '<a href="msg.php?user_id=' . $row['unique_id'] . '">
                     <div class="content">
                     <img src="php/images/' . $row['img'] . '" alt="">
                     <div class="details">
