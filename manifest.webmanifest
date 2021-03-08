@@ -1,9 +1,4 @@
 {
-    "name": "Pidgeotto",
-    "short_name": "Pidgeotto",
-    "start_url": ".",
-    "display": "standalone",
-    "theme_color": "#232931",
     "background_color": "#ffffff",
     "description": "Pidgeotto - Realtime Chat App",
     "icons": [
@@ -22,5 +17,9 @@
             "type": "image/png",
             "sizes": "512x512"
         }
-    ]
+    ],
+    "name": "Pidgeotto",
+    "short_name": "Pidgeotto",
+    "start_url": ".",
+    "theme_color": "#232931"
 }

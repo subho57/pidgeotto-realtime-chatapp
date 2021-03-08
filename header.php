@@ -5,7 +5,8 @@
 <head>
 
   <!-- Basic -->
-  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
   <meta name="description" content="Pidgeotto - Realtime Chat App">
   <meta name="keywords" content="Pidgeotto - Realtime Chat App">
   <title>Pidgeotto - Realtime Chat App</title>
@@ -22,5 +23,5 @@
   <link rel="shortcut icon" href="img/favicon.ico">
 
   <!-- PWA Migration -->
-  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="manifest" href="./manifest.webmanifest" />
 </head>
